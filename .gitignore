@@ -4,3 +4,6 @@ i8080_tests
 cpm
 cpu_tests/sunhillow
 TODO.md
+
+# cmake 
+/build/
